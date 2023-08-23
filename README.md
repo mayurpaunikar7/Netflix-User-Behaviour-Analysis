@@ -15,6 +15,8 @@ The goal is to uncover insights into user preferences, viewing patterns, and tre
 - [Project Details](#project-details)
 - [Data Extraction](#data-extraction)
 - [Data Preprocessing](#data-preprocessing)
+- [Data Analysis](#data-analysis)
+- [Data Visualization](#data-visualization)
 - [Usage](#usage)
 
 ## Project Details
@@ -28,6 +30,18 @@ The goal is to uncover insights into user preferences, viewing patterns, and tre
 
 - Performed data cleaning to ensure data accuracy and consistency.
 - Handled missing values, duplicates, and organized the data for analysis.
+
+### Data Analysis
+
+- Utilized NumPy and Pandas for in-depth data analysis.
+- Extracted insights into user behavior, engagement patterns, and content popularity.
+- Derived meaningful metrics to quantify user preferences and viewing habits.
+
+### Data Visualization
+
+- Utilized Seaborn and Matplotlib to create insightful visualizations.
+- Generated bar plots, line charts, heatmaps, and more to illustrate trends and patterns.
+- Visualizations provide a clear representation of user engagement, content popularity, and viewing habits.
   
 ### Usage
 
