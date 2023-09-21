@@ -4,6 +4,9 @@ The goal is to uncover insights into user preferences, viewing patterns, and tre
 
 ![alt text](https://github.com/mayurpaunikar7/Netflix-User-Behaviour-Analysis/blob/main/Images/gsmarena_001.jpg)
 
+## Problem Statement:
+The objective of this project is to analyze user behavior on the Netflix platform using Exploratory Data Analysis (EDA). The challenge is to uncover insights into user preferences, viewing patterns, and trends by analyzing a real-world dataset sourced from Kaggle. This analysis will provide valuable information for content creators, marketers, and platform optimization.
+
 ## Overview
 * Data extraction from Kaggle
 * Data preprocessing to ensure accuracy and consistency
