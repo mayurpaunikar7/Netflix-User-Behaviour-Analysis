@@ -2,12 +2,17 @@
 This project focuses on exploring and analyzing user behavior on the Netflix platform using Exploratory Data Analysis (EDA). 
 The goal is to uncover insights into user preferences, viewing patterns, and trends by analyzing a real-world dataset sourced from Kaggle.
 
-![alt text](https://github.com/mayurpaunikar7/Netflix-User-Behaviour-Analysis/blob/main/Images/gsmarena_001.jpg)
+![Netflix Image](https://github.com/mayurpaunikar7/Netflix-User-Behaviour-Analysis/blob/main/Images/gsmarena_001.jpg)
 
-## Problem Statement:
-The objective of this project is to analyze user behavior on the Netflix platform using Exploratory Data Analysis (EDA). The challenge is to uncover insights into user preferences, viewing patterns, and trends by analyzing a real-world dataset sourced from Kaggle. This analysis will provide valuable information for content creators, marketers, and platform optimization.
+<br>
 
-## Overview
+## 🎯 Problem Statement:
+The objective of this project is to analyze user behavior on the Netflix platform using Exploratory Data Analysis (EDA). The challenge is to uncover insights into user preferences, viewing patterns, and trends by analyzing a real-world dataset sourced from Kaggle. 
+This analysis will provide valuable information for content creators, marketers, and platform optimization.
+
+<br>
+
+## 📋 Overview
 * Data extraction from Kaggle
 * Data preprocessing to ensure accuracy and consistency
 * Exploratory Data Analysis using Python libraries like NumPy, Pandas, Seaborn, and Matplotlib
@@ -15,40 +20,47 @@ The objective of this project is to analyze user behavior on the Netflix platfor
 * User segmentation using clustering techniques
 * Providing implications for content creators and marketers
 
-## Table of Contents
+<br>
 
-- [Project Details](#project-details)
-- [Data Extraction](#data-extraction)
-- [Data Preprocessing](#data-preprocessing)
-- [Data Analysis](#data-analysis)
-- [Data Visualization](#data-visualization)
-- [Usage](#usage)
 
-## Project Details
+- ## 📝 Table of Contents
 
-### Data Extraction
+- [📋 Project Details](#project-details)
+- [📊 Data Extraction](#data-extraction)
+- [🔍 Data Preprocessing](#data-preprocessing)
+- [📈 Data Analysis](#data-analysis)
+- [📊 Data Visualization](#data-visualization)
+- [🚀 User Manual](#usage)
+
+
+<br>
+
+
+## 🚀 Project Details
+
+### 📊 Data Extraction
 
 - Sourced a comprehensive Netflix user behavior dataset from Kaggle.
 - Dataset includes information about user interactions, content preferences, and viewing patterns.
 
-### Data Preprocessing
+### 🔍 Data Preprocessing
 
 - Performed data cleaning to ensure data accuracy and consistency.
 - Handled missing values, duplicates, and organized the data for analysis.
 
-### Data Analysis
+### 📈 Data Analysis
 
 - Utilized NumPy and Pandas for in-depth data analysis.
 - Extracted insights into user behavior, engagement patterns, and content popularity.
 - Derived meaningful metrics to quantify user preferences and viewing habits.
 
-### Data Visualization
+### 📊 Data Visualization
 
 - Utilized Seaborn and Matplotlib to create insightful visualizations.
 - Generated bar plots, line charts, heatmaps, and more to illustrate trends and patterns.
 - Visualizations provide a clear representation of user engagement, content popularity, and viewing habits.
   
-### Usage
+### 🛠️ User Manual
 
 - Clone this repository to your local machine.
 - Open the Jupyter Notebook (`netflix_user_behaviour_analysis.ipynb`) in a compatible environment.
@@ -56,7 +68,9 @@ The objective of this project is to analyze user behavior on the Netflix platfor
 - Experiment with the code and visualizations to gain insights.
 - Feel free to modify and adapt the code for your own analysis.
 
-## Challenges Faced
+<br>
+
+## 🤔 Challenges Faced
 
 - **Data Variety**: Handling diverse data types, including numerical, date-based, and categorical, posed data preprocessing challenges.
 
@@ -64,7 +78,9 @@ The objective of this project is to analyze user behavior on the Netflix platfor
 
 - **Data Quality**: Addressing missing values, outliers, and inconsistencies was critical for accurate analysis.
 
-## Insights Derived
+<br>
+
+## 💡 Insights Derived
 
 - **Churn Rate**: Calculated the churn rate by analyzing the drop in user subscriptions over time, revealing trends and potential reasons for churn.
 
@@ -72,7 +88,9 @@ The objective of this project is to analyze user behavior on the Netflix platfor
 
 - **Geographical Trends**: Analyzed user demographics and behavior by country, unveiling regional preferences and opportunities.
 
-## Future Scope
+<br>
+
+## 🔮 Future Scope
 
 - **Personalized Recommendations**: Implement machine learning algorithms to provide personalized content recommendations, enhancing user engagement.
 
