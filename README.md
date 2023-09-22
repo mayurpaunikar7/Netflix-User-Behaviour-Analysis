@@ -7,8 +7,9 @@ The goal is to uncover insights into user preferences, viewing patterns, and tre
 <br>
 
 ## 🎯 Problem Statement:
-The objective of this project is to analyze user behavior on the Netflix platform using Exploratory Data Analysis (EDA). The challenge is to uncover insights into user preferences, viewing patterns, and trends by analyzing a real-world dataset sourced from Kaggle. 
-This analysis will provide valuable information for content creators, marketers, and platform optimization.
+- The objective of this project is to analyze user behavior on the Netflix platform using Exploratory Data Analysis (EDA). 
+- The challenge is to uncover insights into user preferences, viewing patterns, and trends by analyzing a real-world dataset sourced from Kaggle. 
+- This analysis will provide valuable information for content creators, marketers, and platform optimization.
 
 <br>
 
@@ -88,7 +89,39 @@ This analysis will provide valuable information for content creators, marketers,
 
 - **Geographical Trends**: Analyzed user demographics and behavior by country, unveiling regional preferences and opportunities.
 
+
 <br>
+
+
+
+![Netflix Image](https://github.com/mayurpaunikar7/Netflix-User-Behaviour-Analysis/assets/104827070/cbeaa442-2c6f-479c-9f51-ca71b0e913c0)
+<br>
+
+![Netflix Image](https://github.com/mayurpaunikar7/Netflix-User-Behaviour-Analysis/assets/104827070/844499d1-e5bc-4ce5-a551-cc00805b98f8)
+<br>
+
+![Netflix Image](https://github.com/mayurpaunikar7/Netflix-User-Behaviour-Analysis/assets/104827070/65593a1d-cc80-42a7-9bae-9430a4675b7e)
+<br>
+
+![Netflix Image](https://github.com/mayurpaunikar7/Netflix-User-Behaviour-Analysis/assets/104827070/01784be2-9cbe-42f8-8a24-9fa17a602d20)
+<br>
+
+![Netflix Image](https://github.com/mayurpaunikar7/Netflix-User-Behaviour-Analysis/assets/104827070/bc9a0e09-a5e0-476f-a569-5b8eabbba92e)
+<br>
+
+![Netflix Image](https://github.com/mayurpaunikar7/Netflix-User-Behaviour-Analysis/assets/104827070/2dd4e92a-ed79-4f37-99cb-b352a8b1a89d)
+<br>
+
+![Netflix Image](https://github.com/mayurpaunikar7/Netflix-User-Behaviour-Analysis/assets/104827070/5fe21ff0-7899-4fb1-9656-6bf094ab4400)
+
+<br>
+
+![Netflix Image](https://github.com/mayurpaunikar7/Netflix-User-Behaviour-Analysis/assets/104827070/29726094-6e42-4cb4-816f-c9084029237f)
+
+<br>
+
+
+
 
 ## 🔮 Future Scope
 
